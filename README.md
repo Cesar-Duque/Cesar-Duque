@@ -1,10 +1,10 @@
-# 💻 Bem-vindo ao meu GitHub!
+# 💻 Seja Bem-vindo!
 
 ## 👋 Sobre mim
-Sou um desenvolvedor apaixonado por tecnologia e aprendizado contínuo. Trabalho com diversas linguagens e frameworks para construir soluções eficientes e escaláveis.
+Sou graduando no curso de Sistemas de Informação na Universiade Vila Velha e atualmente estagio na área de Desenvolvimento Full Stack, trabalhando com a STACK: Angular + ASP.NET + C#.
 
 ## 🚀 Tecnologias
-Aqui estão algumas das tecnologias com as quais eu trabalho:
+Aqui estão algumas das tecnologias com as quais eu trabalho e já tive contato em meus estudos:
 
 ### 📌 Linguagens de Programação
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
