@@ -55,4 +55,4 @@ Aqui estão algumas das tecnologias com as quais eu trabalho:
 
 ## 📫 Contato
 📧 Email: cduquebr@gmail.com
-  🌐 LinkedIn: [Cesar Duque](www.linkedin.com/in/cesar-duque-leal-silva-a96058144)  
+🌐 LinkedIn: [Cesar Duque](https://www.linkedin.com/in/cesar-duque-leal-silva-a96058144/)  
