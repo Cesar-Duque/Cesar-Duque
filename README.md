@@ -1,12 +1,12 @@
-# 💻 Seja Bem-vindo!
+# 💻 Seja Bem-vindo! / Welcome!
 
-## 👋 Sobre mim
+## 👋 Sobre mim / About me
 Sou graduando no curso de Sistemas de Informação na Universidade Vila Velha e, atualmente, estagio na área de Desenvolvimento Full Stack, trabalhando com a STACK: Angular + ASP.NET + C#.
 
-## 🚀 Tecnologias
-Aqui estão algumas das tecnologias com as quais eu trabalho e já tive contato em meus estudos:
+## 🚀 Tecnologias / Technologies
+Aqui estão algumas das tecnologias com as quais eu trabalho e já tive contato em meus estudos: / Here are some of the technologies I work with and have come into contact with in my studies:
 
-### 📌 Linguagens de Programação
+### 📌 Linguagens de Programação / Programming Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -26,13 +26,13 @@ Aqui estão algumas das tecnologias com as quais eu trabalho e já tive contato 
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### 📌 Desenvolvimento Mobile
+### 📌 Desenvolvimento Mobile / Mobile Development
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### 📌 Banco de Dados
+### 📌 Banco de Dados / Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
@@ -41,7 +41,7 @@ Aqui estão algumas das tecnologias com as quais eu trabalho e já tive contato 
 ### 📌 DevOps
 ![Azure](https://img.shields.io/badge/Azure-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-### 📌 Ferramentas
+### 📌 Ferramentas / Tools
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -49,10 +49,10 @@ Aqui estão algumas das tecnologias com as quais eu trabalho e já tive contato 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white)
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas do GitHub / GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cesar-Duque&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cesar-Duque&layout=compact&theme=radical)
 
-## 📫 Contato
+## 📫 Contato / Contact
 📧 Email: cduquebr@gmail.com
 🌐 LinkedIn: [Cesar Duque](https://www.linkedin.com/in/cesar-duque-leal-silva-a96058144/)  
