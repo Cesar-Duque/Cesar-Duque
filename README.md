@@ -1,7 +1,7 @@
 # 💻 Seja Bem-vindo!
 
 ## 👋 Sobre mim
-Sou graduando no curso de Sistemas de Informação na Universiade Vila Velha e atualmente estagio na área de Desenvolvimento Full Stack, trabalhando com a STACK: Angular + ASP.NET + C#.
+Sou graduando no curso de Sistemas de Informação na Universidade Vila Velha e, atualmente, estagio na área de Desenvolvimento Full Stack, trabalhando com a STACK: Angular + ASP.NET + C#.
 
 ## 🚀 Tecnologias
 Aqui estão algumas das tecnologias com as quais eu trabalho e já tive contato em meus estudos:
