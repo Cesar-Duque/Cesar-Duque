@@ -41,24 +41,18 @@ Aqui estão algumas das tecnologias com as quais eu trabalho:
 ### 📌 DevOps
 ![Azure](https://img.shields.io/badge/Azure-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-### 📌 Software
+### 📌 Ferramentas
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-### 📌 Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white)
 
 ## 📊 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cesar-Duque&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cesar-Duque&layout=compact&theme=radical)
 
 ## 📫 Contato
-📧 Email: seuemail@example.com  
-🌐 LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/seulinkedin/)  
-🚀 Portfólio: [Seu Portfólio](https://seuportifolio.com)  
-
----
-🔥 Sempre aprendendo e evoluindo! Obrigado por visitar meu perfil! 😊
-
+📧 Email: cduquebr@gmail.com
+🌐 LinkedIn: [Seu LinkedIn](www.linkedin.com/in/cesar-duque-leal-silva-a96058144)  
