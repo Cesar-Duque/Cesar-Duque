@@ -2,10 +2,12 @@
 
 ## 👋 Sobre mim / About me
 Sou graduando no curso de Sistemas de Informação na Universidade Vila Velha e, atualmente, estagio na área de Desenvolvimento Full Stack, trabalhando com a STACK: Angular + ASP.NET + C#.
+<br>
 I am a graduate in the Information Systems course at Vila Velha University and, currently, I am an intern in the Full Stack Development area, working with the STACK: Angular + ASP.NET + C#.
 
 ## 🚀 Tecnologias / Technologies
-Aqui estão algumas das tecnologias com as quais eu trabalho e já tive contato em meus estudos: 
+Aqui estão algumas das tecnologias com as quais eu trabalho e já tive contato em meus estudos:
+<br>
 Here are some of the technologies I work with and have come into contact with in my studies:
 
 ### 📌 Linguagens de Programação / Programming Languages
