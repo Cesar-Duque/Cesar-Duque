@@ -49,7 +49,7 @@
 - **Full-Stack Development** with modern frameworks and technologies
 - **Enterprise Applications** using C# and .NET ecosystem
 - **Responsive Web Applications** with React and Angular
-- **Database Design** and optimization with SQL and NoSQL solutions
+- **Database Design** and optimization with SQL solutions
 - **RESTful API Development** and microservices architecture
 
 ### 🎯 Current Focus
