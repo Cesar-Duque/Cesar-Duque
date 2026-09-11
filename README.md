@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Cesar Duque
+# 👋 Olá, eu sou Cesar
 
 🎓 Bacharel em **Sistemas de Informação**
 📊 Pós-graduado em **Inteligência Analítica e Análise de Dados**
