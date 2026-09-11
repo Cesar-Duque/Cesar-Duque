@@ -12,19 +12,13 @@ Atualmente atuo com **desenvolvimento de sistemas, dados e Inteligência Artific
 ### 📊 Dados
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" title="Pandas" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" title="NumPy" />
+  <img src="https://cdn.simpleicons.org/looker/4285F4" height="40" alt="Google Looker" title="Google Looker" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />
   <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />
   <img width="12" />
-
-  <img src="https://cdn.simpleicons.org/looker/4285F4" height="40" alt="Google Looker" title="Google Looker" />
 </div>
 
 ### 💻 Desenvolvimento
