@@ -1,90 +1,66 @@
-# 👋 Olá, eu sou Cesar
+[🇧🇷 Leia em Português](README.pt-br.md) | 🇺🇸 English (current)
 
-🎓 Bacharel em **Sistemas de Informação**
-📊 Pós-graduado em **Inteligência Analítica e Análise de Dados**
+# 👋 Hi, I'm Cesar
 
-Atualmente atuo com **desenvolvimento de sistemas, dados e Inteligência Artificial**, com interesse em construir aplicações que utilizem dados e IA para resolver problemas reais.
+🎓 Bachelor's in **Information Systems**
+📊 Postgraduate (Lato Sensu) in **Analytical Intelligence and Data Analysis**
 
----
-
-## 🛠️ Tecnologias
-
-### 📊 Dados
-
-<div align="left">
-  <img src="https://cdn.simpleicons.org/looker/4285F4" height="40" alt="Google Looker" title="Google Looker" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />
-  <img width="12" />
-</div>
-
-### 💻 Desenvolvimento
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" title="PHP" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel" title="Laravel" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" title="C#" />
-  <img width="12" />
-
-  <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="40" alt="ASP.NET" title="ASP.NET" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="Angular" title="Angular" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript" />
-</div>
-
-### 🛠️ Ferramentas
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" title="GitHub" />
-  <img width="12" />
-
-  <img src="https://cdn.simpleicons.org/dbeaver/382923" height="40" alt="DBeaver" title="DBeaver" />
-</div>
+Currently working on **systems development, data, and Artificial Intelligence**, with a focus on building applications that use data and AI to solve real problems.
 
 ---
 
-## 🤖 Atualmente
+## 🛠️ Tech Stack
 
-* Desenvolvimento com **PHP e Laravel**
-* Projetos envolvendo **Inteligência Artificial e LLMs**
-* Aplicações com **RAG e busca semântica**
-* Análise e visualização de dados
-* Desenvolvimento de **dashboards**
-* SQL e bancos de dados relacionais
+### 📊 Data
 
----
+[![Google Looker](https://cdn.simpleicons.org/looker/4285F4)](https://cdn.simpleicons.org/looker/4285F4)
+[![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)
+[![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg)](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg)
 
-## 💼 Experiência
+### 💻 Development
 
-**Desenvolvimento Web**
-Experiência com **Angular, TypeScript, C#, ASP.NET, APIs REST e PostgreSQL**, atuando no desenvolvimento de uma plataforma educacional.
+[![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg)](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg)
+[![Laravel](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg)](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg)
+[![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg)](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg)
+[![ASP.NET](https://cdn.simpleicons.org/dotnet/512BD4)](https://cdn.simpleicons.org/dotnet/512BD4)
+[![Angular](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg)](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg)
+[![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg)](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg)
 
-**Infraestrutura de TI**
-Experiência com suporte técnico, manutenção de computadores, configuração de ambientes, redes, monitoramento com **Zabbix** e documentação técnica.
+### 🛠️ Tools
 
----
-
-## 📌 Interesses
-
-**Data Analytics • Inteligência Artificial • Desenvolvimento Web • LLMs • RAG • Dashboards**
+[![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)
+[![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)
+[![DBeaver](https://cdn.simpleicons.org/dbeaver/382923)](https://cdn.simpleicons.org/dbeaver/382923)
 
 ---
 
-## 📫 Contato
+## 🤖 Currently
 
-<a href="https://www.linkedin.com/in/cesar-duque-leal-silva/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+- Building with **PHP and Laravel**
+- Projects involving **Artificial Intelligence and LLMs**
+- Applications with **RAG and semantic search**
+- Data analysis and visualization
+- **Dashboard** development
+- SQL and relational databases
+
+---
+
+## 💼 Experience
+
+**Web Development**
+Experience with **Angular, TypeScript, C#, ASP.NET, REST APIs, and PostgreSQL**, working on the development of an educational platform.
+
+**IT Infrastructure**
+Experience with technical support, computer maintenance, environment configuration, networking, monitoring with **Zabbix**, and technical documentation.
+
+---
+
+## 📌 Interests
+
+**Data Analytics • Artificial Intelligence • Web Development • LLMs • RAG • Dashboards**
+
+---
+
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-duque-leal-silva/)
