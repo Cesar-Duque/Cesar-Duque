@@ -89,5 +89,5 @@ Experience with technical support, computer maintenance, environment configurati
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://cesar-duque.github.io/portfolio/">
-  <img src="https://img.shields.io/badge/Portfólio-9B5CFF?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfólio-9B5CFF?style=for-the-badge&logoColor=white" />
 </a>
