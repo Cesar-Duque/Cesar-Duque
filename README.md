@@ -5,6 +5,8 @@
 
 I currently work with **software development, data, and Artificial Intelligence**, with an interest in building applications that use data and AI to solve real-world problems.
 
+🌐 **English** | [Português](README.pt-br.md)
+
 ---
 
 ## 🛠️ Technologies
