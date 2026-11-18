@@ -1,68 +1,34 @@
-# 👋 Olá, eu sou Cesar
+# 👋 Olá, eu sou o Cesar
 
 🎓 Bacharel em **Sistemas de Informação**
 📊 Pós-graduado em **Inteligência Analítica e Análise de Dados**
 
-Atualmente atuo com **desenvolvimento de sistemas, dados e Inteligência Artificial**, com interesse em construir aplicações que utilizem dados e IA para resolver problemas reais.
+Atualmente atuo com **desenvolvimento de software, dados e Inteligência Artificial**, com interesse em construir aplicações que usam dados e IA para resolver problemas reais.
 
 ---
 
 ## 🛠️ Tecnologias
 
-### 📊 Dados
-
-<div align="left">
-  <img src="https://cdn.simpleicons.org/looker/4285F4" height="40" alt="Google Looker" title="Google Looker" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />
-  <img width="12" />
-</div>
-
-### 💻 Desenvolvimento
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" title="PHP" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel" title="Laravel" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" title="C#" />
-  <img width="12" />
-
-  <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="40" alt="ASP.NET" title="ASP.NET" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="Angular" title="Angular" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript" />
-</div>
-
-### 🛠️ Ferramentas
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" title="GitHub" />
-  <img width="12" />
-
-  <img src="https://cdn.simpleicons.org/dbeaver/382923" height="40" alt="DBeaver" title="DBeaver" />
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=jetbrains&logoColor=white" alt="DataGrip" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
+</p>
 
 ---
 
 ## 🤖 Atualmente
 
-* Desenvolvimento com **PHP e Laravel**
-* Projetos envolvendo **Inteligência Artificial e LLMs**
-* Aplicações com **RAG e busca semântica**
-* Análise e visualização de dados
-* Desenvolvimento de **dashboards**
+* Desenvolvendo com **PHP e Laravel**
+* Construindo interfaces com **React e TypeScript**
+* Usando o **Claude** como assistente de IA para desenvolvimento, revisão de código e aprendizado
+* Trabalhando em projetos de **Inteligência Artificial e LLMs**
+* Desenvolvendo aplicações com **RAG e busca semântica**
 * SQL e bancos de dados relacionais
 
 ---
@@ -70,7 +36,10 @@ Atualmente atuo com **desenvolvimento de sistemas, dados e Inteligência Artific
 ## 💼 Experiência
 
 **Desenvolvimento Web**
-Experiência com **Angular, TypeScript, C#, ASP.NET, APIs REST e PostgreSQL**, atuando no desenvolvimento de uma plataforma educacional.
+Experiência com **Angular, TypeScript, C#, ASP.NET, APIs REST, PostgreSQL e DBeaver**, atuando no desenvolvimento de uma plataforma educacional.
+
+**Análise de Dados e Dashboards**
+Experiência com análise de dados e desenvolvimento de dashboards usando **Google Looker, PostgreSQL e DBeaver**.
 
 **Infraestrutura de TI**
 Experiência com suporte técnico, manutenção de computadores, configuração de ambientes, redes, monitoramento com **Zabbix** e documentação técnica.
@@ -79,12 +48,15 @@ Experiência com suporte técnico, manutenção de computadores, configuração 
 
 ## 📌 Interesses
 
-**Data Analytics • Inteligência Artificial • Desenvolvimento Web • LLMs • RAG • Dashboards**
+**Análise de Dados • Inteligência Artificial • Desenvolvimento Web • LLMs • RAG • Dashboards**
 
 ---
 
 ## 📫 Contato
-
 <a href="https://www.linkedin.com/in/cesar-duque-leal-silva/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://cesar-duque.github.io/portfolio/">
+  <img src="https://img.shields.io/badge/Portfólio-9B5CFF?style=for-the-badge&logoColor=white" />
 </a>
