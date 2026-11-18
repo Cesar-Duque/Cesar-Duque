@@ -10,27 +10,7 @@ I currently work with **software development, data, and Artificial Intelligence*
 ## 🛠️ Technologies
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" title="PHP" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel" title="Laravel" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" title="GitHub" />
-  <img width="12" />
-
-  <img src="https://cdn.simpleicons.org/claude/D97757" height="40" alt="Claude" title="Claude" />
-
-  <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/DataGrip_icon.svg" height="40" alt="DataGrip" title="DataGrip" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,react,ts,mysql,github,datagrip,claude" alt="PHP, Laravel, React, TypeScript, MySQL, GitHub, DataGrip, Claude" />
 </div>
 
 ---
