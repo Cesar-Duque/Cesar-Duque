@@ -23,15 +23,15 @@
 🎓 Bachelor's Degree in **Information Systems**
 📊 Postgraduate in **Analytical Intelligence and Data Analysis**
 
-I currently work with **software development, data, and Artificial Intelligence**, with an interest in building applications that use data and AI to solve real-world problems.
+I currently work on **AI-first software projects**, combining **software development, data, and Artificial Intelligence** to build applications that solve real-world problems.
 
 ### 🤖 Currently
 
+* Working on **AI-first projects**
+* Building applications with **LLMs, RAG, and semantic search**
 * Developing with **PHP and Laravel**
 * Building interfaces with **React and TypeScript**
 * Using **Claude** as an AI assistant for development, code review, and learning
-* Working on **Artificial Intelligence and LLM projects**
-* Building applications with **RAG and semantic search**
 * SQL and relational databases
 
 ### 💼 Experience
@@ -47,7 +47,7 @@ Experience with technical support, computer maintenance, environment configurati
 
 ### 📌 Interests
 
-**Data Analytics • Artificial Intelligence • Web Development • LLMs • RAG • Dashboards**
+**AI-First Development • Data Analytics • Web Development • LLMs • RAG • Dashboards**
 
 </details>
 
@@ -59,15 +59,15 @@ Experience with technical support, computer maintenance, environment configurati
 🎓 Bacharel em **Sistemas de Informação**
 📊 Pós-graduado em **Inteligência Analítica e Análise de Dados**
 
-Atualmente atuo com **desenvolvimento de software, dados e Inteligência Artificial**, com interesse em construir aplicações que usam dados e IA para resolver problemas reais.
+Atualmente atuo em **projetos de software AI-first**, combinando **desenvolvimento de software, dados e Inteligência Artificial** para construir aplicações que resolvem problemas reais.
 
 ### 🤖 Atualmente
 
+* Trabalhando em **projetos AI-first**
+* Desenvolvendo aplicações com **LLMs, RAG e busca semântica**
 * Desenvolvendo com **PHP e Laravel**
 * Construindo interfaces com **React e TypeScript**
 * Usando o **Claude** como assistente de IA para desenvolvimento, revisão de código e aprendizado
-* Trabalhando em projetos de **Inteligência Artificial e LLMs**
-* Desenvolvendo aplicações com **RAG e busca semântica**
 * SQL e bancos de dados relacionais
 
 ### 💼 Experiência
@@ -83,7 +83,7 @@ Experiência com suporte técnico, manutenção de computadores, configuração 
 
 ### 📌 Interesses
 
-**Análise de Dados • Inteligência Artificial • Desenvolvimento Web • LLMs • RAG • Dashboards**
+**Desenvolvimento AI-First • Análise de Dados • Desenvolvimento Web • LLMs • RAG • Dashboards**
 
 </details>
 
