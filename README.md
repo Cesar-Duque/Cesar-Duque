@@ -1,15 +1,6 @@
-# 👋 Hi, I'm Cesar
+# 👋 Hi, I'm Cesar | Olá, eu sou o Cesar
 
-🎓 Bachelor's Degree in **Information Systems**
-📊 Postgraduate in **Analytical Intelligence and Data Analysis**
-
-I currently work with **software development, data, and Artificial Intelligence**, with an interest in building applications that use data and AI to solve real-world problems.
-
-🌐 **English** | [Português](README.pt-br.md)
-
----
-
-## 🛠️ Technologies
+## 🛠️ Technologies / Tecnologias
 
 <p align="left">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
@@ -24,7 +15,17 @@ I currently work with **software development, data, and Artificial Intelligence*
 
 ---
 
-## 🤖 Currently
+<details open>
+<summary><b>🇺🇸 English</b></summary>
+
+<br>
+
+🎓 Bachelor's Degree in **Information Systems**
+📊 Postgraduate in **Analytical Intelligence and Data Analysis**
+
+I currently work with **software development, data, and Artificial Intelligence**, with an interest in building applications that use data and AI to solve real-world problems.
+
+### 🤖 Currently
 
 * Developing with **PHP and Laravel**
 * Building interfaces with **React and TypeScript**
@@ -33,9 +34,7 @@ I currently work with **software development, data, and Artificial Intelligence*
 * Building applications with **RAG and semantic search**
 * SQL and relational databases
 
----
-
-## 💼 Experience
+### 💼 Experience
 
 **Web Development**
 Experience with **Angular, TypeScript, C#, ASP.NET, REST APIs, PostgreSQL, and DBeaver**, working on the development of an educational platform.
@@ -46,15 +45,52 @@ Experience with data analysis and dashboard development using **Google Looker, P
 **IT Infrastructure**
 Experience with technical support, computer maintenance, environment configuration, networking, **Zabbix** monitoring, and technical documentation.
 
----
-
-## 📌 Interests
+### 📌 Interests
 
 **Data Analytics • Artificial Intelligence • Web Development • LLMs • RAG • Dashboards**
 
+</details>
+
+<details>
+<summary><b>🇧🇷 Português</b></summary>
+
+<br>
+
+🎓 Bacharel em **Sistemas de Informação**
+📊 Pós-graduado em **Inteligência Analítica e Análise de Dados**
+
+Atualmente atuo com **desenvolvimento de software, dados e Inteligência Artificial**, com interesse em construir aplicações que usam dados e IA para resolver problemas reais.
+
+### 🤖 Atualmente
+
+* Desenvolvendo com **PHP e Laravel**
+* Construindo interfaces com **React e TypeScript**
+* Usando o **Claude** como assistente de IA para desenvolvimento, revisão de código e aprendizado
+* Trabalhando em projetos de **Inteligência Artificial e LLMs**
+* Desenvolvendo aplicações com **RAG e busca semântica**
+* SQL e bancos de dados relacionais
+
+### 💼 Experiência
+
+**Desenvolvimento Web**
+Experiência com **Angular, TypeScript, C#, ASP.NET, APIs REST, PostgreSQL e DBeaver**, atuando no desenvolvimento de uma plataforma educacional.
+
+**Análise de Dados e Dashboards**
+Experiência com análise de dados e desenvolvimento de dashboards usando **Google Looker, PostgreSQL e DBeaver**.
+
+**Infraestrutura de TI**
+Experiência com suporte técnico, manutenção de computadores, configuração de ambientes, redes, monitoramento com **Zabbix** e documentação técnica.
+
+### 📌 Interesses
+
+**Análise de Dados • Inteligência Artificial • Desenvolvimento Web • LLMs • RAG • Dashboards**
+
+</details>
+
 ---
 
-## 📫 Contact
+## 📫 Contact / Contato
+
 <a href="https://www.linkedin.com/in/cesar-duque-leal-silva/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
