@@ -13,6 +13,7 @@ I currently work with **software development, data, and Artificial Intelligence*
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/looker/4285F4" height="40" alt="Google Looker" title="Google Looker" />
+  <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />
   <img width="12" />
@@ -30,13 +31,7 @@ I currently work with **software development, data, and Artificial Intelligence*
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel" title="Laravel" />
   <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" title="C#" />
-  <img width="12" />
-
-  <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="40" alt="ASP.NET" title="ASP.NET" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="Angular" title="Angular" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React" />
   <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript" />
@@ -51,7 +46,13 @@ I currently work with **software development, data, and Artificial Intelligence*
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" title="GitHub" />
   <img width="12" />
 
-  <img src="https://cdn.simpleicons.org/dbeaver/382923" height="40" alt="DBeaver" title="DBeaver" />
+  <img src="https://cdn.simpleicons.org/datagrip/000000" height="40" alt="DataGrip" title="DataGrip" />
+</div>
+
+### 🤖 AI Tools
+
+<div align="left">
+  <img src="https://cdn.simpleicons.org/claude/D97757" height="40" alt="Claude" title="Claude" />
 </div>
 
 ---
@@ -59,6 +60,8 @@ I currently work with **software development, data, and Artificial Intelligence*
 ## 🤖 Currently
 
 * Developing with **PHP and Laravel**
+* Building interfaces with **React and TypeScript**
+* Using **Claude** as an AI assistant for development, code review, and learning
 * Working on **Artificial Intelligence and LLM projects**
 * Building applications with **RAG and semantic search**
 * Data analysis and visualization
