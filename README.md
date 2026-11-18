@@ -9,9 +9,16 @@ I currently work with **software development, data, and Artificial Intelligence*
 
 ## 🛠️ Technologies
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,react,ts,mysql,github,datagrip,claude" alt="PHP, Laravel, React, TypeScript, MySQL, GitHub, DataGrip, Claude" />
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=jetbrains&logoColor=white" alt="DataGrip" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
+</p>
 
 ---
 
