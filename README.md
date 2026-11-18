@@ -25,8 +25,7 @@ I currently work with **software development, data, and Artificial Intelligence*
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />
   <img width="12" />
 
-  <img src="https://cdn.simpleicons.org/datagrip/000000" height="40" alt="DataGrip" title="DataGrip" />
-  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datagrip/datagrip-original.svg" height="40" alt="DataGrip" title="DataGrip" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" title="GitHub" />
   <img width="12" />
