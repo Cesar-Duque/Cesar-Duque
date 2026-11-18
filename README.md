@@ -9,21 +9,6 @@ I currently work with **software development, data, and Artificial Intelligence*
 
 ## 🛠️ Technologies
 
-### 📊 Data
-
-<div align="left">
-  <img src="https://cdn.simpleicons.org/looker/4285F4" height="40" alt="Google Looker" title="Google Looker" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />
-  <img width="12" />
-</div>
-
-### 💻 Development
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" title="PHP" />
   <img width="12" />
@@ -35,23 +20,17 @@ I currently work with **software development, data, and Artificial Intelligence*
   <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript" />
-</div>
+  <img width="12" />
 
-### 🛠️ Tools
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />
+  <img width="12" />
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
+  <img src="https://cdn.simpleicons.org/datagrip/000000" height="40" alt="DataGrip" title="DataGrip" />
   <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" title="GitHub" />
   <img width="12" />
 
-  <img src="https://cdn.simpleicons.org/datagrip/000000" height="40" alt="DataGrip" title="DataGrip" />
-</div>
-
-### 🤖 AI Tools
-
-<div align="left">
   <img src="https://cdn.simpleicons.org/claude/D97757" height="40" alt="Claude" title="Claude" />
 </div>
 
@@ -64,8 +43,6 @@ I currently work with **software development, data, and Artificial Intelligence*
 * Using **Claude** as an AI assistant for development, code review, and learning
 * Working on **Artificial Intelligence and LLM projects**
 * Building applications with **RAG and semantic search**
-* Data analysis and visualization
-* Dashboard development
 * SQL and relational databases
 
 ---
@@ -73,7 +50,10 @@ I currently work with **software development, data, and Artificial Intelligence*
 ## 💼 Experience
 
 **Web Development**
-Experience with **Angular, TypeScript, C#, ASP.NET, REST APIs, and PostgreSQL**, working on the development of an educational platform.
+Experience with **Angular, TypeScript, C#, ASP.NET, REST APIs, PostgreSQL, and DBeaver**, working on the development of an educational platform.
+
+**Data Analysis and Dashboards**
+Experience with data analysis and dashboard development using **Google Looker, PostgreSQL, and DBeaver**.
 
 **IT Infrastructure**
 Experience with technical support, computer maintenance, environment configuration, networking, **Zabbix** monitoring, and technical documentation.
