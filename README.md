@@ -30,8 +30,7 @@ I currently work with **software development, data, and Artificial Intelligence*
 
   <img src="https://cdn.simpleicons.org/claude/D97757" height="40" alt="Claude" title="Claude" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datagrip/datagrip-original.svg" height="40" alt="DataGrip" title="DataGrip" />
-  <img width="12" />
+  <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/DataGrip_icon.svg" height="40" alt="DataGrip" title="DataGrip" />
 </div>
 
 ---
